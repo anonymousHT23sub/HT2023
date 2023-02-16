@@ -1,4 +1,4 @@
-# ICWSM 23 Submission
+# SocialNLP 2023 Submission
 This repository includes Code/Documents contributing to our Hypertext'22 submission.
 
 ## tweet_ids.csv
