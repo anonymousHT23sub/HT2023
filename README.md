@@ -1,4 +1,4 @@
-# SocialNLP 2023 Submission
+# Hypertext 2023 Submission
 This repository includes Code/Documents contributing to our SocialNLP'23 submission.
 
 ## tweet_ids.csv
